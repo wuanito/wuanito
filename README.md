@@ -106,5 +106,4 @@ Observabilidad (infraestructura compartida)
 ---
 
 <p align="center">
-  <i>Building in public. Every architectural decision is documented.</i>
 </p>
