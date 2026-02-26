@@ -1,4 +1,4 @@
-<h1 align="center">Hey, soy Juan Frauca Sesma 👋</h1>
+<h1 align="center">Hey, soy Juan Frauca 👋</h1>
 
 <p align="center">
   <b>Software Developer · La Rioja, España</b><br/>
