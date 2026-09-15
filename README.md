@@ -33,14 +33,6 @@ Actualmente trabajo como **Software Developer en [Rioja Nature Pharma](https://w
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/ErpOpenSource">
-        <img src="https://avatars.githubusercontent.com/u/263853028?s=80&v=4" width="60" /><br/>
-        <b>Wuan OpenSource</b>
-      </a>
-      <br/>
-      ERP open source con microservicios · Fundador y maintainer
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/Nature-Pharma">
         <img src="https://avatars.githubusercontent.com/u/261202070?s=80&v=4" width="60" /><br/>
         <b>Nature Pharma</b>
