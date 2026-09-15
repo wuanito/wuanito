@@ -25,7 +25,6 @@ Soy desarrollador de software con experiencia construyendo sistemas reales tanto
 
 Actualmente trabajo como **Software Developer en [Rioja Nature Pharma](https://www.riojanaturepharma.com/es)**, un laboratorio especializado en complementos alimenticios con presencia nacional e internacional, donde además fundé y mantengo la organización de GitHub de la empresa.
 
-En paralelo, soy el creador y mantenedor de **[Wuan OpenSource](https://github.com/ErpOpenSource)**, una plataforma ERP de código abierto construida con arquitectura de microservicios lista para producción.
 
 ---
 
@@ -52,31 +51,6 @@ En paralelo, soy el creador y mantenedor de **[Wuan OpenSource](https://github.c
   </tr>
 </table>
 
----
-
-## 🚀 Proyecto destacado — ErpOpenSource
-
-> Un ERP modular de código abierto construido con arquitectura de microservicios real, pensado para desarrolladores que quieren aprender cómo se construye un sistema empresarial serio.
-
-```
-Clients
-  └──► API Gateway (Spring Cloud Gateway)
-           ├──► Auth Service
-           ├──► Sales Service
-           ├──► Inventory Service
-           └──► ... (un repo por módulo)
-
-Observabilidad (infraestructura compartida)
-  └── OTel Collector · Grafana Tempo · Prometheus · Grafana · Loki
-```
-
-**Principios de diseño:**
-- 🗂️ **Un servicio, un repositorio** — cada módulo del ERP tiene su propio repo y pipeline CI
-- 📊 **Observable desde el día uno** — métricas Prometheus, trazas OpenTelemetry y logs JSON estructurados
-- 🐳 **Infraestructura como código** — todo arranca con `docker compose up`, sin configuración manual
-- 📖 **Documentación para developers** — las decisiones de arquitectura están documentadas junto al código
-
-🔗 [Ver organización →](https://github.com/ErpOpenSource)
 
 ---
 
